@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="bmi_fact">Body Mass Index (BMI) is a person\'s weight in kilograms (or pounds) divided by the square of height in meters (or feet). A high BMI can indicate high body fatness. BMI screens for weight categories that may lead to health problems, but it does not diagnose the body fatness or health of an individual.</string>
+    <string name="bmi_myth_1">1. Myth: A low BMI means you are healthy. Fact: Having a low BMI does not mean that you are healthy. People with low BMI are more prone to infections. Underweight is always linked with a weak immune system.</string>
+    <string name="bmi_myth_2">2. Myth: A high BMI increases the risk of a heart attack. Fact: The amount of fat is associated with heart-related problems but not higher BMI.</string>
+    <string name="bmi_myth_3">3. Myth: Eating healthy and exercising means you\'ll have a low BMI. Fact: Despite the healthy diet and regular exercise it is very important to maintain a healthy body but it is not related to a low BMI.</string>
+    <string name="bmi_myth_4">4. Myth: You are healthy if your BMI is between 19 and 25. Fact: As per the BMI scale, lower than 18.5 is underweight, between 18.5 and 24.9 is normal, 25 to 29.9 is overweight and 30 or above is obese. Sometimes there are some health issues that increase and decrease weight.</string>
+    <string name="bmi_myth_5">5. Myth: The BMI is an excellent measure of health. Fact: The BMI isn\'t a great measure of health for everyone. When you focus only on the BMI you may miss the other problems. It is better to focus on healthy habits.</string>
+    <string name="bmi_myth_heading">Myth Related to BMI</string>
+    <string name="copyright_text">Made with love by vishnu kumar 💖</string>
+</resources>
