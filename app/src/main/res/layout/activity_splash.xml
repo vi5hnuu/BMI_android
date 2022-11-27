@@ -7,12 +7,28 @@
     android:orientation="vertical"
     android:padding="50dp"
     tools:context=".SplashActivity">
-
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/splash_heading"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="15dp"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:fontFamily="monospace"
+        />
     <com.airbnb.lottie.LottieAnimationView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:id="@+id/animationView"
+        app:lottie_rawRes="@raw/splash_loading"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        />
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="4"
         app:lottie_rawRes="@raw/splash_anim"
         app:lottie_autoPlay="true"
         app:lottie_loop="true"

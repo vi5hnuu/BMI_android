@@ -11,11 +11,11 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.BMI"
         tools:targetApi="31">
         <activity
             android:name=".SplashActivity"
             android:screenOrientation="portrait"
+            android:theme="@style/Theme.Splash"
             android:exported="true"
             >
             <intent-filter>
@@ -26,6 +26,7 @@
 
         <activity
             android:name=".MainActivity"
+            android:theme="@style/Theme.BMI"
             android:exported="false"
             android:screenOrientation="portrait">
 
